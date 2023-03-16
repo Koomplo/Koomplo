@@ -13,5 +13,5 @@ Sinta-se à vontade para explorar os códigos e comentários. Qualquer feedback 
 
 ## 📫 Contato
 
-- GitHub: <a href="https://mariomteixeira.github.io"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/github_icon_130924.png" width="20" height="20"/></a> [mariomteixeira.github.io](https://mariomteixeira.github.io)
-- Email: *(Em breve)* <img src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564429-mail_81537.png" width="20" height="20"/>
+- GitHub: <a href="https://mariomteixeira.github.io"></a> [mariomteixeira.github.io](https://mariomteixeira.github.io)
+- Email: *(Em breve)*
