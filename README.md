@@ -1,20 +1,12 @@
 ## Bem-vindo 👋 !
-</br> [](https://komarev.com/ghpvc/?username=Koomplo&label=visitors&color=2FC18C) 
- 
-<div align="center">
-  <div align="left" style="display: inline_block">
-    <p>Dev Full Stack - Brasil</p>
-    <li>👨‍🎓 Estudando na: <a href="https://github.com/betrybe">@betrybe</a></li>
-    <li>🎮 Jogos e Estudos sobre T.I. são minha paixão.</li>
-    <li>🌱 Começando em: React, JS e NodeJS</li>
-  </div>
-</div>
+# 👨‍💻 Sobre Mim
 
----
+Este é o meu perfil profissional no GitHub, onde compartilho meu progresso de aprendizado em diversas linguagens de programação.
 
-### 💻 **Aprendizado**
+## 🚀 Conhecimentos
 
-- **HTML** | **CSS** | **JavaScript** | **NodeJS** | **ReactJS** |
+- 💻 **Fundamentos**: Internet, Unix & Shell, Git, HTML, CSS, JavaScript, Testes Unitários em JavaScript
+- 🌐 **Front-end**: React <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="20" height="20"/>, Redux <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="20" height="20"/>, Context API <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_context_api_original_logo_icon_146375.png" width="20" height="20"/>, CSS Avançado, Testes automatizados com React Testing Library
+- 🔙 **Back-end**: Banco de Dados, SQL, NoSQL, Server-Side, Deploy, Node.js <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="20" height="20"/>, Express.js <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_express_icon_130509.png" width="20" height="20"/>, ORM, Docker <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" width="20" height="20"/>, Testes Unitários, Testes de Integração, Python <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="20" height="20"/>, Algoritmos, Estrutura de Dados, Raspagem de Dados
 
-### **Entre em contato**
-## Soon ##
+Sinta-se à vontade para explorar os códigos e comentários. Qualquer feedback ou sugestão é sempre bem-vindo!
