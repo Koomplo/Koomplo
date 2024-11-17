@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Sou o Mário Teixeira</h1>
 <h3 align="center">Sou um ativo e apaixonado desenvolvedor e amante da tecnologia.</h3>
 
-- 🔭 Atualmente estou focado no curso FullStack da Trybe e em busca da primeira oportunidade de trabalho.
+- 🔭 Atualmente focado nos estudos em IA e Java
 
 - 🌱 Atualmente estou me aprofundando em **NextJS**
 
